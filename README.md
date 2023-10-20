@@ -19,13 +19,6 @@ The Voice-Enabled Form is a React.js web application designed to capture persona
 </p>
 
 <p align="center">
-  <b>Backend</b><br>
-  <img src="https://img.shields.io/badge/nodejs-%2338B2AC.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="node">
-  <img src="https://img.shields.io/badge/expressjs-%777BB4.svg?style=for-the-badge&logo=express.js&logoColor=white" alt="express">
-  <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose">
-</p>
-
-<p align="center">
   <b>Tools</b><br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
