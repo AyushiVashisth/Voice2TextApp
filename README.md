@@ -73,29 +73,20 @@ The Voice-Enabled Form is a React.js web application designed to capture persona
    - Follow best practices for React component structure and state management.
    - Deploy the application or provide clear instructions for local setup.
 
+## Desktop
 
-## Registration and authentication using OAT
-![Screenshot 2023-10-11 184351](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/4254549c-74ea-4b07-8917-9179ec73e76a)
+![Screenshot 2023-10-20 164407](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/78943a4d-154d-43d4-a6e6-a1e56d176a88)
 
-## Display search results with relevant recipe information (title, image, summary)
-![Screenshot 2023-10-11 184413](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/72f82934-652f-4137-b21a-2ba4fba62be9)
-![Screenshot 2023-10-11 184439](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/ee06ac87-2bb0-413d-9b52-aff6cfc37cb9)
-![Screenshot 2023-10-11 184459](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/fe601f58-cde5-45bf-a0f3-1ebb6fe149fd)
+## Mobile
 
-## Recipe details page showing ingredients, instructions, and nutritional information
-![Screenshot 2023-10-11 184531](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/d7a04a64-ba30-467b-9048-26538edb72f5)
-![Screenshot 2023-10-11 184551](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/65ab9b21-1f3f-49f7-b850-6776549f2f31)
-![Screenshot 2023-10-11 184604](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/a3bb0c27-a16c-4573-b0df-ee834f4de903)
-![Screenshot 2023-10-11 184645](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/cdd625a4-3a9d-4ae8-b7e9-882dfcc142f5)
+![Screenshot 2023-10-20 164421](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/7a5061d6-1a97-463a-a33e-319811880149)
 
-## Favourite recipes and view their saved recipes
-![Screenshot 2023-10-11 184659](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/0facd247-cfda-4501-80de-172b08bdfc0f)
-![Screenshot 2023-10-11 184740](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/9dbbf7ef-38b3-4e66-a609-7daf560a5580)
-![Screenshot 2023-10-11 184747](https://github.com/AyushiVashisth/webledger-assignment/assets/107119119/bd5e0cf4-4e23-4efc-99a8-1faab6901b0f)
+![Screenshot 2023-10-20 164438](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/aef393a4-2140-4be3-b3fd-78b9370405d7)
+![Screenshot 2023-10-20 164447](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/750df34e-34ce-4ada-8f00-1ce5709bcca4)
+
 
 
 <h2 align="center">Key Features</h2>
-
 1. User Data Fields: Collects First Name, Last Name, State, District, Village, PAN Number, and Aadhaar Number.
 2. Voice Recording: Allows users to start and stop voice recording with a visual indicator.
 3. Speech-to-Text Conversion: Integrates Google Cloud Speech-to-Text API for accurate voice-to-text conversion.
