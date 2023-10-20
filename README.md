@@ -74,18 +74,15 @@ The Voice-Enabled Form is a React.js web application designed to capture persona
    - Deploy the application or provide clear instructions for local setup.
 
 ## Desktop
-
-![Screenshot 2023-10-20 164407](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/78943a4d-154d-43d4-a6e6-a1e56d176a88)
+![Screenshot 2023-10-20 164407](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/96c55c8e-8aae-402e-8dd1-d83899edc4e3)
 
 ## Mobile
-
-![Screenshot 2023-10-20 164421](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/7a5061d6-1a97-463a-a33e-319811880149)
+![Screenshot 2023-10-20 164421](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/0d340155-dc0e-4411-bfc1-1f652ccfc669)
 
 <div >
-  <img width="46%" src="https://github.com/AyushiVashisth/voice2textapp/assets/107119119/aef393a4-2140-4be3-b3fd-78b9370405d7" alt="react">
-  <img width="46%" src="https://github.com/AyushiVashisth/voice2textapp/assets/107119119/750df34e-34ce-4ada-8f00-1ce5709bcca4" alt="tailwindcss">
+  <img width="46%" src="https://github.com/AyushiVashisth/voice2textapp/assets/107119119/40e31cd0-ad0b-4180-a94c-af49757dc7f8" alt="react">
+  <img width="46%" src="https://github.com/AyushiVashisth/voice2textapp/assets/107119119/efc5ac17-ab64-4f57-9086-583aada0f468" alt="tailwindcss">
 </div>
-
 
 
 <h2 align="center">Key Features</h2>
