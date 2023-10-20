@@ -81,8 +81,10 @@ The Voice-Enabled Form is a React.js web application designed to capture persona
 
 ![Screenshot 2023-10-20 164421](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/7a5061d6-1a97-463a-a33e-319811880149)
 
-![Screenshot 2023-10-20 164438](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/aef393a4-2140-4be3-b3fd-78b9370405d7)
-![Screenshot 2023-10-20 164447](https://github.com/AyushiVashisth/voice2textapp/assets/107119119/750df34e-34ce-4ada-8f00-1ce5709bcca4)
+<div >
+  <img width="46%" src="https://github.com/AyushiVashisth/voice2textapp/assets/107119119/aef393a4-2140-4be3-b3fd-78b9370405d7" alt="react">
+  <img width="46%" src="https://github.com/AyushiVashisth/voice2textapp/assets/107119119/750df34e-34ce-4ada-8f00-1ce5709bcca4" alt="tailwindcss">
+</div>
 
 
 
