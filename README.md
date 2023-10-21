@@ -5,6 +5,8 @@
 The Voice-Enabled Form is a React.js web application designed to capture personal information using voice input, offering a more convenient and accessible data entry experience. It integrates voice recording and speech-to-text conversion through Google Cloud Speech-to-Text API. Users can provide their details by speaking into the application, and the transcribed text is displayed within the corresponding form fields. Once all fields are populated, users can submit the information for persistent storage in a database. The project emphasizes user-friendly design and clear instructions, following React best practices. [Assignment.pdf](https://github.com/AyushiVashisth/voice2textapp/files/13053393/Assignment.pdf)
 
 ### Frontend Deployed URL 👉 [Click here](https://voice2textapp.vercel.app/)
+### Backend Respositry URL 👉 [Click here](https://github.com/AyushiVashisth/voice2textapp-backend)
+### Backend Deployed URL 👉 [Click here](https://onefinitylabsapi.onrender.com/onefinitylabsApi)
 
 </h3>
 
